@@ -3,7 +3,9 @@ title: Rob Jahn
 layout: default
 ---
 
-# Blogs
+![useful image]({{ site.url }}/assets/image.png)
+
+## Blogs
 
 * [Dyntrace blog](https://www.dynatrace.com/news/blog/author/rob-jahn/)
 * [Medium](https://medium.com/@robjahn)
