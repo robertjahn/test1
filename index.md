@@ -3,7 +3,7 @@ title: Rob Jahn
 layout: default
 ---
 
-![useful image]({{ site.url }}/assets/boston.png)
+![useful image](/assets/boston.png)
 
 ## Blogs
 
